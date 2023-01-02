@@ -1,0 +1,14 @@
+.box {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background: #eee;
+  border: 2px solid white;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: red;
+}
